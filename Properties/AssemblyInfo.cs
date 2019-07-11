@@ -11,7 +11,7 @@ using Android.App;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("com.LongTech.Android.BooksNBytes")]
-[assembly: AssemblyCopyright("Copyright © Books N' Bytes, Inc. 2019. All Rights Reserved.")]
+[assembly: AssemblyCopyright("Copyright © Books N' Bytes, Inc. 2017-2019. All Rights Reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

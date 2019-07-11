@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj
+/bin
+/.vs/com.LongTech.Android.BooksNBytes/v15
+/com.LongTech.Android.BooksNBytes.csproj.user
